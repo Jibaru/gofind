@@ -1,15 +1,23 @@
+```
 =======================================
    ____         ___  _             _
   / ___| _____ / __|(_) __  __ ___| |
- | |  _ /  _  \| |_ | ||  \| |/  _  | 
+ | |  _ /  _  \| |_ | ||  \| |/  _  |
  | |_| || |_| ||  _|| ||     || |_| |
   \____|\_____/|_|  |_||_|\__|\_____|
 
 =======================================
+```
 
-Concurrent finder tool
+# Concurrent finder tool
 
-Usage:
+## Usage:
+
+```
+gofind -d <directory> -s <search string> -m <max number of coincidences>
+```
+
+## Flags
 
 ```
   -d string
