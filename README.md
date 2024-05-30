@@ -30,3 +30,7 @@ gofind -d <directory> -s <search string> -m <max number of coincidences>
   -s string
         search string
 ```
+## Flow
+
+![image](https://github.com/Jibaru/gofind/assets/54339832/113f4659-7cbc-40a9-bbd9-9c9d6cdd70e7)
+
